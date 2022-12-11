@@ -488,3 +488,11 @@ header {
     justify-content: space-between;
   }
 }
+.footer__contact i:hover{
+  background-color: var(--red-l);
+  transition: var(--smooth);
+}
+.footer__contact p:hover{
+  background-color: var(--red-l);
+  transition: var(--smooth);
+}
